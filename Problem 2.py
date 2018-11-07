@@ -1,0 +1,10 @@
+person1=str(input())
+gpa1=float(input())
+person2=str(input())
+gpa2=float(input())
+person3=str(input())
+gpa3=float(input())
+person4=str(input())
+gpa4=float(input())
+Agpa=(gpa1+gpa2+gpa3+gpa4)/4
+print(person1,person2,person3,person4,Agpa)
